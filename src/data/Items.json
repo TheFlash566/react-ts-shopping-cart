@@ -1,0 +1,47 @@
+
+[
+    {
+        "id": 0,
+        "brand": "Versace",
+        "price": 400,
+        "imgUrl": "/img/d2.jpg"
+
+    },
+
+    {
+        "id": 1,
+        "brand": "Luis Vuiton",
+        "price": 500,
+        "imgUrl": "/img/d3.jpg"
+    },
+
+    {
+        "id": 2,
+        "brand": "Gucci",
+        "price": 600,
+        "imgUrl": "/img/g2.jpg"
+    },
+
+    {
+        "id": 3,
+        "brand": "Addidas",
+        "price": 700,
+        "imgUrl": "/img/g3.jpg"
+    },
+
+    {
+        "id": 4,
+        "brand": "Balenciaga",
+        "price": 800,
+        "imgUrl": "/img/g5.jpg"
+    },
+
+    {
+        "id": 5,
+        "brand": "Balenciaga",
+        "price": 900,
+        "imgUrl": "/img/g5.jpg"
+    }
+
+]
+
